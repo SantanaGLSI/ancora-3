@@ -8,12 +8,14 @@ body{
 }
 
 .part4text4{
+    background-color: antiquewhite;
     text-align: center;
     align-items: center;
 }
 
 
 .part5text5{
+    background-color: antiquewhite;
     text-align: center;
     align-items: center;
 }
@@ -24,5 +26,5 @@ h1{
 }
 
 a{
-    color: ;
+    color:background-color: antiquewhite;
 }
